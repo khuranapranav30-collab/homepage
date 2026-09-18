@@ -7,21 +7,21 @@ const articles = [
         image: article1,
         name: 'The Future of Web Development',
         description:'Explore the latest trends and technologies shaping modern web development.',
-        rating: '4.8',
+        rating: '⭐ 4.8',
         author: 'Pranav Khurana'
     },
     {
         image: article2,
         name: 'Understanding Modern Web Design',
         description:'Learn about the essential tools and formats used to create modern digital content.',
-        rating: '4.6',
+        rating: '⭐ 4.6',
         author: 'Pranav Khurana'
     },
     {
         image: article3,
         name: 'Getting Started with Programming',
         description:'A beginner-friendly introduction to coding and the fundamentals of web development.',
-        rating: '4.9',
+        rating: '⭐ 4.9',
         author: 'Pranav Khurana'
     }
 ]
